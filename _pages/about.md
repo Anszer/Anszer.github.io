@@ -2,7 +2,7 @@
 layout: defaults/page
 permalink: about.html
 narrow: true
-title: More info about Friday Theme
+title: More info about HuZhou Lab
 images:
   - https://images.unsplash.com/photo-1421789665209-c9b2a435e3dc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5b1016b885e7438c4633109d77368d4d&auto=format&fit=crop&w=1651&q=80
   - https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=468a8c18f5d811cf03c654b653b5089e&auto=format&fit=crop&w=1650&q=80
@@ -12,9 +12,11 @@ images:
 ## What is it?
 
 {% include components/intro.md %}
+湖州在哪里？
 
 ## Full Feature List
 
+他是什么？
 - Installation
   - Designed for Jekyll 3.8
   - Compatible with GitHub Pages
@@ -50,6 +52,7 @@ images:
 ## Examples
 
 Here's some quick examples of what it can do.
+研究项目
 
 ### Code Highlighting
 
