@@ -7,8 +7,8 @@ highlighter:      rouge
 excerpt_separator: <!--more-->
 
 # Config for your profile.
-title:            Huzhou Institute, Zhejiang University            # Site title
-name:             HuZhou Lab            # Your name
+title:            不思议の烘焙小屋           # Site title
+name:             不思议            # Your name
 avatar:           /theme/img/avatar.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
