@@ -13,16 +13,18 @@ title: Welcome to 不思议の烘焙小屋
 
 ## 如何下单购买
 
-网站本身并不支持下单购买行为，您可以扫描二维码关注微信公众号：不思议の烘焙小屋。再通过公众号购买哦。[GitHub repo](https://github.com/sfreytag/friday-theme) PS：公众号仅支持微信付款。
+网站本身并不支持下单购买行为，您可以扫描二维码关注微信公众号：不思议の烘焙小屋。再通过公众号购买哦。[公众号二维码](https://pic.rmb.bdstatic.com/242d36bd012f9a5f1c8fd0ef1c0f971f.jpeg@wm_2,t_55m+5a625Y+3L+i0teW3nuaVmeiCsuWPkeW4gw==,fc_ffffff,ff_U2ltSGVp,sz_11,x_7,y_7) PS：公众号仅支持微信付款。
 
-[The documentation]({{ site.baseurl }}{% link list/projects.md %}) covers the basics of installing and using it, and is an example of how you could write documentation about your own projects.
+[点击甜品台]({{ site.baseurl }}{% link list/projects.md %}) 包含了目前为止不思议设计过的所有甜品台。
 
-[The blog]({{ site.baseurl }}{% link list/posts.html %}) has a bunch of tips about how to use Friday Theme. These show how the blog works, including the tags. There's the three most-recent posts below included below.
-第二部分
+[点击甜品]({{ site.baseurl }}{% link list/posts.html %}) 这是不思议日常营业的各式蛋糕面包和其他一些甜品。
+
 
 ## 安全资质
 
-不思议的原料取自英国皇家牧场生产的新鲜牛奶，经过89道工序后的黄油、奶酪和奶油奶香味十足，同时生产标准也符合欧盟奶制品规格。不思议的面粉选择王后面粉，总之又贵又好。
+不思议的原料取自英国皇家牧场生产的新鲜牛奶，经过89道工序后的黄油、奶酪和奶油奶香味十足，同时生产标准也符合欧盟奶制品规格。不思议的面粉选择王后面粉，色素是植物性色素。
+
+同时，不思议当天售卖的甜品都是当天烘焙而成，请各位顾客不用担心食材新鲜度的问题。
 
 <hr />
 
