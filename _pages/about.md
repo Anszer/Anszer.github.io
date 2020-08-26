@@ -43,39 +43,13 @@ images:
   - 冰淇淋
   - 肉松小贝
 
-## Examples
+##联系我们
 
-Here's some quick examples of what it can do.
-研究项目
+手机：18868120112
+微信公众号：不思议的烘焙小屋
+微博：不思议の烘焙小屋
 
-### Code Highlighting
-
-{% highlight javascript %}
-var modulePattern = (function() {
-    // your module code goes here
-    var sum = 0 ;
-
-    return {
-        add:function() {
-            sum = sum + 1;
-            return sum;
-        },
-        reset:function() {
-            return sum = 0;
-        }
-    }
-}());
-{% endhighlight %}
-
-### Bootstrap Components
-
-Here's a CSS component, it's an alert box with the info color:
-
-<div class="alert alert-info">
-    A simple info alert!
-</div>
-
-And this is a more sophisticated example, using the JS to include a carousel of images:
+### 关于不思议
 
 <div id="carouselExampleControls" class="carousel slide mb-4" data-ride="carousel">
     <div class="carousel-inner">
